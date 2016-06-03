@@ -1,0 +1,18 @@
+<?xml version ='1.0'?>
+<people>
+	<persons type="male">
+		<name>Vivek</name>
+		<age>26</age>
+		<contact>8976782671</contact>
+	</persons>
+	<persons type="female">
+		<name>Shipra</name>
+		<age>24</age>
+		<contact>9870687282</contact>
+	</persons>
+	<persons type="female">
+		<name>Vinita</name>
+		<age>23</age>
+		<contact>9833512131</contact>
+	</persons>
+</people>
